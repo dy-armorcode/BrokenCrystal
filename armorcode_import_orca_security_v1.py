@@ -15,6 +15,7 @@ subProduct='g1'
 environment="Production"
 folder_name=r"F:/tmp"
 file_extension = ".json"
+aws_access_key_id = "ef16ac4e-8609-428a-8420-6bbbcc88a87f"
 api_key='ef16ac4e-8609-428a-8420-6bbbcc88a87f'  ## Kindly download the API Key from ArmorCode website and place it here.
 tags=""
 
